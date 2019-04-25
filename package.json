@@ -1,0 +1,44 @@
+{
+  "name": "lemi",
+  "version": "1.0.0",
+  "description": "Exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnryAtienza/lemi.git"
+  },
+  "keywords": [
+    "test",
+    "lemi"
+  ],
+  "author": "Johnry Atienza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnryAtienza/lemi/issues"
+  },
+  "homepage": "https://github.com/johnryAtienza/lemi#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^2.1.1",
+    "html-webpack-plugin": "^3.2.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "style-loader": "^0.23.1",
+    "url-loader": "^1.1.2",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1",
+    "webpack-dev-server": "^3.3.1"
+  },
+  "dependencies": {
+    "jquery": "^3.4.0",
+    "owl.carousel": "^2.3.4"
+  }
+}

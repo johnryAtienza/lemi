@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="303px" height="284px" viewBox="0 0 303 284" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>state 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01a-Main-website-Desktop" transform="translate(-356.000000, -1858.000000)">
+            <g id="02" transform="translate(0.000000, 1797.000000)">
+                <g id="state-2" transform="translate(358.000000, 62.000000)">
+                    <g id="Group-2" transform="translate(49.000000, 253.000000)" stroke="#00CB4A" stroke-linecap="round">
+                        <path d="M6.37857224,25.0312408 C8.75516685,26.8912836 11.7481061,28 15,28 C18.2706761,28 21.2793977,26.8784392 23.6625461,24.9989361 M23.8271111,3.13286288 C21.4186169,1.17411149 18.3464227,0 15,0 C11.7695773,0 8.79470093,1.09412377 6.42572837,2.93201377" id="Oval-14" stroke-width="3" fill-rule="nonzero"></path>
+                        <g id="Group" transform="translate(0.000000, 9.000000)" stroke-linejoin="round" stroke-width="2.4">
+                            <polyline id="Stroke-290" points="0 0 1.57894737 10 3.94736842 1.25 6.31578947 10 7.89473684 0"></polyline>
+                            <polyline id="Stroke-292" points="11.0526316 0 12.6315789 10 15 1.25 17.3684211 10 18.9473684 0"></polyline>
+                            <polyline id="Stroke-294" points="22.1052632 0 23.6842105 10 26.0526316 1.25 28.4210526 10 30 0"></polyline>
+                        </g>
+                    </g>
+                    <g id="Group-7" transform="translate(138.879545, 150.946771) rotate(18.000000) translate(-138.879545, -150.946771) translate(32.879545, 44.446771)" stroke="#E6E6E6" stroke-linecap="round" stroke-width="3">
+                        <path d="M62.1027949,25.6034531 L113.642887,25.6034531" id="Line-2" stroke-linejoin="bevel" transform="translate(87.872841, 25.603453) rotate(72.000000) translate(-87.872841, -25.603453) "></path>
+                        <path d="M158.58569,54.9902066 L216.807311,54.9902066" id="Line-2" stroke-linejoin="bevel" transform="translate(187.696501, 54.990207) rotate(144.000000) translate(-187.696501, -54.990207) "></path>
+                        <path d="M171.479302,128.221777 L189.146292,183.874684" id="Line-2" stroke-linejoin="bevel" transform="translate(180.447400, 156.153889) rotate(144.000000) translate(-180.447400, -156.153889) "></path>
+                        <path d="M115.798719,165.593603 L66.7278689,200.119704" id="Line-2-Copy" stroke-linejoin="bevel" transform="translate(90.859216, 183.113015) rotate(144.000000) translate(-90.859216, -183.113015) "></path>
+                        <path d="M49.7183702,123.483194 L6.51276868,92.2512916" id="Line-2-Copy-2" stroke-linejoin="bevel" transform="translate(27.981178, 107.785169) rotate(144.000000) translate(-27.981178, -107.785169) "></path>
+                        <polyline id="Path-3" stroke-linejoin="round" points="91.8236668 50.7071171 96.7632739 52.9653927 99.4321189 48.2349811"></polyline>
+                        <polyline id="Path-3-Copy" stroke-linejoin="round" transform="translate(163.601261, 71.862402) rotate(72.000000) translate(-163.601261, -71.862402) " points="159.797035 71.9693323 164.736642 74.227608 167.405487 69.4971963"></polyline>
+                        <polyline id="Path-3-Copy-2" stroke-linejoin="round" transform="translate(156.772771, 138.220308) rotate(144.000000) translate(-156.772771, -138.220308) " points="152.968545 138.327239 157.908152 140.585514 160.576997 135.855103"></polyline>
+                        <polyline id="Path-3-Copy-2" stroke-linejoin="round" transform="translate(100.556511, 156.132462) rotate(216.000000) translate(-100.556511, -156.132462) " points="96.7522854 156.239392 101.691893 158.497668 104.360738 153.767256"></polyline>
+                        <polyline id="Path-3-Copy-2" stroke-linejoin="round" transform="translate(54.279046, 108.066490) rotate(290.000000) translate(-54.279046, -108.066490) " points="50.4748201 108.17342 55.4144273 110.431695 58.0832722 105.701284"></polyline>
+                    </g>
+                    <g id="Group" transform="translate(0.000000, 100.000000)" stroke="#00CB4A" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+                        <path d="M22.7067826,24.9638261 C20.3170435,26.8641739 17.2906087,28 14,28 C6.26834783,28 0,21.7316522 0,14 C0,6.26713043 6.26834783,0 14,0 C21.7328696,0 28,6.26713043 28,14 C28,17.0252174 25.4836522,19.4782609 23.1304348,19.4782609 C20.7772174,19.4782609 18.2608696,18.2426087 18.2608696,15.2173913 L19.4782609,8.52173913" id="Stroke-45"></path>
+                        <path d="M18.2613565,15.2169043 C17.8048348,17.1696 16.0810087,19.4777739 13.3917913,19.4777739 C10.3227478,19.4777739 8.21787826,16.2821217 9.13092174,13.3908174 C10.8194435,8.04403478 16.6641391,7.58873043 18.8700522,9.73864348" id="Stroke-47"></path>
+                    </g>
+                    <g id="icon/green/gem" transform="translate(105.000000, 112.000000)" fill="#00CB4A" stroke="#00CB4A" stroke-width="4">
+                        <path d="M42,85.6762813 L0.695505984,24.9347527 C-0.399552982,23.3236232 -0.182679379,21.1794434 1.21325353,19.8108817 L19.1931443,2.18353785 C19.9697656,1.4221444 21.0228244,0.993907376 22.1217016,0.993907376 L61.8782984,0.993907376 C62.9771756,0.993907376 64.0302344,1.4221444 64.8068557,2.18353785 L82.7867465,19.8108817 C84.1826794,21.1794434 84.399553,23.3236232 83.304494,24.9347527 L42,85.6762813 Z" id="Fill-13"></path>
+                    </g>
+                    <g id="Group" transform="translate(133.000000, 0.000000)" fill-rule="nonzero" stroke="#00CB4A" stroke-width="3">
+                        <path d="M20,20 L14,15" id="Line" stroke-linecap="round"></path>
+                        <path d="M14,7 L14,15" id="Line" stroke-linecap="round"></path>
+                        <circle id="Oval-14" cx="14" cy="15" r="14"></circle>
+                    </g>
+                    <g id="Group" transform="translate(271.000000, 97.000000)" fill-rule="nonzero" stroke="#00CB4A" stroke-width="3">
+                        <path d="M13.5051794,33.6551798 C23.0836227,27.0074396 27.9152846,20.4204613 28.0001652,13.8942448 C28.0001652,6.94724434 23.3322801,0 14.000151,0 C4.66802194,0 0.000136867434,6.94724434 0.000136867434,13.8942448 C-0.0286165419,20.4332902 4.47306431,27.0202685 13.5051794,33.6551798 Z" id="Oval-Copy" stroke-linejoin="round"></path>
+                        <ellipse id="Oval" cx="14" cy="13.6" rx="5.25" ry="5.1"></ellipse>
+                    </g>
+                    <path d="M217.5574,262.287488 C221.798008,260.440035 232.814358,260.706814 236.442606,262.287488 C241.14315,264.335315 243.316572,268.218089 242.962872,273.935808 L242.962892,273.935809 C242.891129,275.095882 241.929359,275.999995 240.767069,275.999995 L235.944737,275.999995 C234.729711,275.999995 233.744737,275.015021 233.744737,273.799995 L233.744737,271.343741 C233.744737,270.128715 232.759764,269.143741 231.544737,269.143741 L222.455269,269.143741 C221.240243,269.143741 220.255269,270.128715 220.255269,271.343741 L220.255269,273.799995 C220.255269,275.015021 219.270296,275.999995 218.055269,275.999995 L213.232956,276.000017 C212.070668,276.000017 211.108898,275.095907 211.037132,273.935836 C210.683413,268.218107 212.856836,264.335324 217.5574,262.287488 Z" id="Rectangle" stroke="#00CB4A" stroke-width="3" fill-rule="nonzero" transform="translate(227.000000, 268.500000) rotate(-135.000000) translate(-227.000000, -268.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
